@@ -8,4 +8,4 @@
 - [lab_2_challenges](lab_2_challenges/lab_2.ipnyb) -> Challenges from Week 2 lab workbook: UA_LabWorkbook_2, focuses on Data manipulation and working with web services
 - [lab_2_challenges](lab_2_challenges/lab_2.ipnyb) -> Challenges from Week 3 lab workbook: UA_LabWorkbook_3, focuses on Data manipulation, cleaning and large datasets
 
-*Notes for reproducability:* The notebooks were developed using Python 3.10 in the ua Conda environment. Instructions for obtaining any datasets and reproducing results will be included within the comments/notes of each relevant notebook.
+*Notes for reproducability:* The notebooks were developed using Python 3.10 in the ua Conda environment. Instructions for obtaining any datasets and reproducing results will be included within the MainPage.ipynb and in the comments/notes of each relevant notebook.
